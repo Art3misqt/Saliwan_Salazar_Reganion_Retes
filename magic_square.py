@@ -4,7 +4,7 @@ import sys
 # --- Configuration Constants ---
 CELL_SIZE = 60 # Size of each square cell in pixels
 FONT_SIZE = 14
-TITLE_FONT_SIZE = 24
+TITLE_FONT_SIZE = 45
 FONT_FAMILY = "Consolas"
 PEN_COLOR = "#1f2937" # Dark blue-gray
 LINE_THICKNESS = 2
@@ -225,4 +225,5 @@ def run_magic_square_app():
         draw_magic_square(magic_square, n)
 
 if __name__ == "__main__":
+
     run_magic_square_app()
