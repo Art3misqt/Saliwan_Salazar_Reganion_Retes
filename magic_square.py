@@ -228,3 +228,5 @@ if __name__ == "__main__":
 
     run_magic_square_app()
 
+
+
