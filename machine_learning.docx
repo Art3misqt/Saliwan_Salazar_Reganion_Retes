@@ -2,3 +2,11 @@ My Journey into Machine Learning with Python: Concepts, Connections, and Real-Wo
 As a beginner stepping into the vast field of artificial intelligence, my initial exploration through the Python Machine Learning tutorial was both structured and illuminating. I moved from grasping abstract definitions to understanding how core algorithms power the technology I use daily. This essay synthesizes my key learnings, connecting theoretical concepts to their practical applications and reflecting on their broader significance.
 
 My first crucial understanding was clarifying what Machine Learning (ML) truly is. I now define it not just as a subset of AI, but as a statistical empowerment of computers. The core idea that algorithms can "look at data to learn from it and make predictions" shifted my perspective. I see now that ML is less about pre-programmed rules and more about creating systems that can derive their own rules from patterns in data.
+
+
+SUBMITTED BY: Kitford Michael A. Retes      DATE : Feb, 5, 2026
+What I understand in Machine learning is basically a way of teaching computers to learn from experience, kind of like how we learn at school. Instead of programming the computer with step-by-step instructions for every possible situation, we give it a lot of data and examples. The computer studies those examples, finds patterns, and then uses those patterns to make decisions or predictions.
+Think of it like preparing for an exam. If you practice with many sample questions, you start to notice the kinds of problems that appear and the strategies that work. Later, when you face a new question on the test, you can solve it because you’ve learned the patterns—even if you’ve never seen that exact question before.
+For example, if you show a computer thousands of pictures labeled 'cat' and 'dog,' it will learn the differences between them—like cats usually have pointy ears and dogs often have longer snouts. Then, when you give it a new picture, the computer can guess whether it’s a cat or a dog.
+So in short, machine learning is about learning from data, spotting patterns, and making predictions. It’s what powers things like spam filters in email, recommendation systems on Netflix, and even self-driving cars.
+SUBMITTED BY: Kitford Michael A. Retes      DATE : Feb, 5, 2026
