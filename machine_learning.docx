@@ -7,3 +7,10 @@ My first crucial understanding was clarifying what Machine Learning (ML) truly i
 Salazar
 What I learned in machine learning is that Machine learning is a powerful tool that enables computers to learn from data and make predictions or decisions on their own. It involves training models with data, tuning hyperparameters, and evaluating performance. For instance, a machine learning model can be trained to predict house prices based on features like location, size, and number of bedrooms. 
 The model learns patterns and relationships in the data and can then make predictions on new, unseen data. This is an example of supervised learning, where the model is trained on labeled data. Machine learning has many applications, including image recognition, natural language processing, and game playing, and is a key component of artificial intelligence. Its potential uses are vast, and it's an exciting field with ongoing research and development.
+
+
+
+What I understand in Machine learning is basically a way of teaching computers to learn from experience, kind of like how we learn at school. Instead of programming the computer with step-by-step instructions for every possible situation, we give it a lot of data and examples. The computer studies those examples, finds patterns, and then uses those patterns to make decisions or predictions.
+Think of it like preparing for an exam. If you practice with many sample questions, you start to notice the kinds of problems that appear and the strategies that work. Later, when you face a new question on the test, you can solve it because you’ve learned the patterns—even if you’ve never seen that exact question before.
+For example, if you show a computer thousands of pictures labeled 'cat' and 'dog,' it will learn the differences between them—like cats usually have pointy ears and dogs often have longer snouts. Then, when you give it a new picture, the computer can guess whether it’s a cat or a dog.
+So in short, machine learning is about learning from data, spotting patterns, and making predictions. It’s what powers things like spam filters in email, recommendation systems on Netflix, and even self-driving cars.
